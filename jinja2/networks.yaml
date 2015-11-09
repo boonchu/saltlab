@@ -1,0 +1,17 @@
+---
+- name: Juniper
+  products: 
+  - vMX
+  - vSRX
+  - Contrail
+- name: Cisco
+  products:
+  - Nexus 7k
+  - Catalyst 3750
+  - ACI
+- name: Brocade
+  products: 
+  - BVC
+  - Vyatta 5400 vRouter
+- name: VMWare
+  products: ['vCenter', 'NSX', 'Virtual SAN']
